@@ -154,7 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/boranno/bdix-tester/issues) page
+1. Check the [Issues](https://github.com/boranno/BDIX-TESTER-BY-BORANNO/issues) page
 2. Create a new issue with detailed information
 3. Include error messages and system information
 
