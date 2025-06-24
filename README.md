@@ -15,20 +15,9 @@ A comprehensive BDIX (Bangladesh Internet Exchange) server testing application b
 
 ## Demo Video
 
-### 🎥 BDIX Tester in Action
+🎥 **[Watch BDIX Tester in Action](https://youtu.be/-XDYmtXMOeA)**
 
-[![BDIX Tester Demo](https://youtu.be/-XDYmtXMOeA)]
-
-*Click the thumbnail above to watch the complete demonstration*
-
-**What you'll see in the demo:**
-- Real-time server testing process
-- Interactive user interface walkthrough
-- Results categorization and browsing
-- Server connectivity demonstrations
-- All features in action
-
-
+See the complete functionality of BDIX Tester including real-time server testing, interactive UI, results categorization, and server connectivity demonstrations.
 
 ## Screenshots
 
@@ -165,7 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/yourusername/bdix-tester/issues) page
+1. Check the [Issues](https://github.com/boranno/bdix-tester/issues) page
 2. Create a new issue with detailed information
 3. Include error messages and system information
 
